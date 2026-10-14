@@ -1,0 +1,90 @@
+{
+  "window_title": "OneBlock",
+  "ref_size": [
+    1920,
+    1057
+  ],
+  "upgrade_btn": [
+    1521,
+    959
+  ],
+  "confirm_btn": [
+    1178,
+    651
+  ],
+  "bar_left": [
+    275,
+    972
+  ],
+  "bar_right": [
+    1284,
+    972
+  ],
+  "main_anchors": [
+    [
+      400,
+      230
+    ],
+    [
+      1700,
+      230
+    ]
+  ],
+  "dialog_anchors": [
+    [
+      700,
+      852
+    ],
+    [
+      960,
+      853
+    ]
+  ],
+  "progress_rect": [
+    700,
+    926,
+    1292,
+    958
+  ],
+  "level_rect": [
+    402,
+    356,
+    708,
+    392
+  ],
+  "next_level_rect": [
+    1090,
+    356,
+    1640,
+    392
+  ],
+  "coins_hud_rect": [
+    54,
+    14,
+    142,
+    54
+  ],
+  "coins_gui_rect": [
+    70,
+    28,
+    160,
+    62
+  ],
+  "cost_rect": [
+    990,
+    622,
+    1368,
+    684
+  ],
+  "hotkey": "home",
+  "overlay_pos": [
+    283,
+    157
+  ],
+  "overlay_alpha": 0.85,
+  "full_threshold": 0.99,
+  "first_check": 20,
+  "max_check": 180,
+  "reclick_interval": 1.0,
+  "bg_fake_focus": true
+}
